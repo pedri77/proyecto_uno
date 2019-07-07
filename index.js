@@ -1,0 +1,5 @@
+console.log('Aquí puedes encontrar lo que estabas buscando: ');
+
+const codigo_oculto = 'RXN0ZSBlcyBlbCBjw7NkaWdvIHF1ZSBoZW1vcyBjaWZyYWRvIHBhcmEgZXN0ZSBlamVyY2ljaW8geSBxdWUgZGViZXJhcyBjb252ZXJ0aXIgYSB0ZXh0byBwbGFubyBwYXJhIGRlc2NpZnJhciB5IGFwdW50YXIgbGEgcGFsYWJyYTogIlN1cGVyY2FsaWZyYWdpbGlzdGljb2VzcGlhbGlkb3NvIg=='
+
+console.log(codigo_oculto);

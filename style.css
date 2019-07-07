@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.nav {
+    background: grey;
+    color: white;
+}
+
+.jumbotron {
+    background-image: url('https://i11d.3djuegos.com/juegos/5919/_logos_y_personajes_/fotos/noticias/_logos_y_personajes_-4911627.jpg')
+}
+
+.container {
+    margin: 30;
+}
+
+.col-md-4 {
+    display: inline-block;
+}
+
